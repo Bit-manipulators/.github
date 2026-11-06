@@ -114,11 +114,11 @@
 
 <div align="center">
 
-| Maintainer | GitHub Profile | Focus Areas |
+| Maintainer | GitHub Profile | Core Repositories & Focus Areas |
 | :---: | :---: | :---: |
-| **Amit Padhan** | [@amitpadhan525](https://github.com/amitpadhan525) | Compositor Architecture, Linux Desktop Convergence, Systems Integration |
-| **Aditya R. Satapathy** | [@Myparadox-creator](https://github.com/Myparadox-creator) | Android Core Systems, Jetpack Compose, Docker Sandboxing, AI Diagnostics |
-| **Anurag Patel** | [@anurag200513](https://github.com/anurag200513) | Organization Strategy, Open Source Infrastructure & Tooling |
+| **Aditya R. Satapathy** | [@Myparadox-creator](https://github.com/Myparadox-creator) | **[DevLense](https://github.com/Bit-manipulators/DevLense)** & **[App_pulse](https://github.com/Bit-manipulators/App_pulse)**<br/>• On-Device Android Engineering (Kotlin & Jetpack Compose)<br/>• Zero-Trust Docker Container Sandboxing<br/>• Deterministic Health Scoring & Stalkerware Detection<br/>• FastAPI Backends & Local AI Diagnostics |
+| **Anurag Patel** | [@anurag200513](https://github.com/anurag200513) | **[open-android-dex-website](https://github.com/Bit-manipulators/open-android-dex-website)**<br/>• Web Engineering & Documentation Architecture<br/>• Project Showcase & Web Interfaces<br/>• Open Source Infrastructure & Deployments |
+| **Amit Padhan** | [@amitpadhan525](https://github.com/amitpadhan525) | **[open-android-dex](https://github.com/Bit-manipulators/open-android-dex)**<br/>• Linux Desktop Compositor Architecture (Flutter Desktop & GTK4)<br/>• Low-Latency Media Pipelines (In-Process C++ FFmpeg Textures)<br/>• Android Stream & Input Bridging (ADB & Scrcpy Protocols)<br/>• Multi-Window Wayland & X11 Workspace Management |
 
 </div>
 
