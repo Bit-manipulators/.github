@@ -114,11 +114,11 @@
 
 <div align="center">
 
-| Maintainer | GitHub Profile | Proven Track Record & Focus Areas |
-| :---: | :---: | :---: |
-| **Aditya R. Satapathy** | [@Myparadox-creator](https://github.com/Myparadox-creator) | **Full-Stack, Applied AI & On-Device Systems**<br/>• **AI & Computer Vision**: Lunar multi-modal image registration ([`LunarRegX`](https://github.com/Myparadox-creator/LunarRegX)), satellite flood intelligence mapping ([`Flood_Scope_AI`](https://github.com/Myparadox-creator/Flood_Scope_AI))<br/>• **Developer Tooling & Sandboxing**: Evidence-based regression risk analysis ([`REGRAVA`](https://github.com/Myparadox-creator/REGRAVA)), zero-trust ephemeral Docker sandboxes & OCR diagnostics ([`DevLense`](https://github.com/Bit-manipulators/DevLense))<br/>• **Android Architecture**: On-device deterministic phone health & stalkerware detection ([`App_pulse`](https://github.com/Bit-manipulators/App_pulse)) |
-| **Anurag Patel** | [@anurag200513](https://github.com/anurag200513) | **Backend Systems, Applied AI & Full-Stack Web**<br/>• **Backend & APIs**: High-performance Python backend REST servers & exploration APIs ([`ORE FINDER-AI`](https://github.com/anurag200513/hackthon))<br/>• **Geospatial & Predictive Systems**: Space/AI-guided sub-surface voxel modeling, mineral shortfall predictive pipelines<br/>• **Full-Stack Web**: Interactive JavaScript/HTML web platforms ([`My-website`](https://github.com/anurag200513/My-website)) & cloud deployment workflows |
-| **Amit Padhan** | [@amitpadhan525](https://github.com/amitpadhan525) | **Linux Systems, Wayland Desktop Compositors & Security**<br/>• **Desktop Compositing & Mobile Convergence**: Open Android DeX creator ([`open-android-dex`](https://github.com/Bit-manipulators/open-android-dex)), Flutter Desktop compositor, in-process C++ FFmpeg textures, Scrcpy/ADB streaming<br/>• **Linux Environments & Desktop Theming**: Hyprland (Wayland) environments ([`linux-dotfiles`](https://github.com/amitpadhan525/linux-dotfiles)), glassmorphism SDDM themes ([`sddm-themes`](https://github.com/amitpadhan525/sddm-themes))<br/>• **Systems Security & Virtualization**: Real-time intrusion monitoring ([`linux-eye`](https://github.com/amitpadhan525/linux-eye)), zero-knowledge AES-256 encryption ([`locker`](https://github.com/amitpadhan525/locker)), QEMU/KVM lab orchestration ([`qemu-kvm-lab`](https://github.com/amitpadhan525/qemu-kvm-lab)), OpenCore UEFI bootloaders ([`ryzen-5500u-hackintosh-efi`](https://github.com/amitpadhan525/ryzen-5500u-hackintosh-efi)) |
+| Name | GitHub Profile |
+| :--- | :--- |
+| **Aditya R. Satapathy** | [@Myparadox-creator](https://github.com/Myparadox-creator) |
+| **Anurag Patel** | [@anurag200513](https://github.com/anurag200513) |
+| **Amit Padhan** | [@amitpadhan525](https://github.com/amitpadhan525) |
 
 </div>
 
