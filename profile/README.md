@@ -64,7 +64,7 @@
 
 * **Key Capabilities**: 8-way window resizing, dynamic Z-index layering, taskbar with 9-dot app launcher, low-latency in-process 60 FPS FFmpeg video texture decoding, and seamless keyboard/mouse input passthrough.
 * **Architecture**: Dual compositor design featuring a high-performance **Flutter Desktop Compositor** and an ultra-lightweight **Python / GTK4 fallback shell**.
-* **Companion Portal**: [open-android-dex-website](https://github.com/Bit-manipulators/open-android-dex-website) — Documentation, architecture specs, and installation guides.
+* **Companion Portal**: [open-android-dex-website](https://github.com/Bit-manipulators/open-android-dex-website) — Documentation and web portal *(In Development)*.
 
 ---
 
@@ -114,11 +114,11 @@
 
 <div align="center">
 
-| Maintainer | GitHub Profile | Core Repositories & Focus Areas |
+| Maintainer | GitHub Profile | Proven Track Record & Focus Areas |
 | :---: | :---: | :---: |
-| **Aditya R. Satapathy** | [@Myparadox-creator](https://github.com/Myparadox-creator) | **[DevLense](https://github.com/Bit-manipulators/DevLense)** & **[App_pulse](https://github.com/Bit-manipulators/App_pulse)**<br/>• On-Device Android Engineering (Kotlin & Jetpack Compose)<br/>• Zero-Trust Docker Container Sandboxing<br/>• Deterministic Health Scoring & Stalkerware Detection<br/>• FastAPI Backends & Local AI Diagnostics |
-| **Anurag Patel** | [@anurag200513](https://github.com/anurag200513) | **[open-android-dex-website](https://github.com/Bit-manipulators/open-android-dex-website)**<br/>• Web Engineering & Documentation Architecture<br/>• Project Showcase & Web Interfaces<br/>• Open Source Infrastructure & Deployments |
-| **Amit Padhan** | [@amitpadhan525](https://github.com/amitpadhan525) | **[open-android-dex](https://github.com/Bit-manipulators/open-android-dex)**<br/>• Linux Desktop Compositor Architecture (Flutter Desktop & GTK4)<br/>• Low-Latency Media Pipelines (In-Process C++ FFmpeg Textures)<br/>• Android Stream & Input Bridging (ADB & Scrcpy Protocols)<br/>• Multi-Window Wayland & X11 Workspace Management |
+| **Aditya R. Satapathy** | [@Myparadox-creator](https://github.com/Myparadox-creator) | **Full-Stack, Applied AI & On-Device Systems**<br/>• **AI & Computer Vision**: Lunar multi-modal image registration ([`LunarRegX`](https://github.com/Myparadox-creator/LunarRegX)), satellite flood intelligence mapping ([`Flood_Scope_AI`](https://github.com/Myparadox-creator/Flood_Scope_AI))<br/>• **Developer Tooling & Sandboxing**: Evidence-based regression risk analysis ([`REGRAVA`](https://github.com/Myparadox-creator/REGRAVA)), zero-trust ephemeral Docker sandboxes & OCR diagnostics ([`DevLense`](https://github.com/Bit-manipulators/DevLense))<br/>• **Android Architecture**: On-device deterministic phone health & stalkerware detection ([`App_pulse`](https://github.com/Bit-manipulators/App_pulse)) |
+| **Anurag Patel** | [@anurag200513](https://github.com/anurag200513) | **Backend Systems, Applied AI & Full-Stack Web**<br/>• **Backend & APIs**: High-performance Python backend REST servers & exploration APIs ([`ORE FINDER-AI`](https://github.com/anurag200513/hackthon))<br/>• **Geospatial & Predictive Systems**: Space/AI-guided sub-surface voxel modeling, mineral shortfall predictive pipelines<br/>• **Full-Stack Web**: Interactive JavaScript/HTML web platforms ([`My-website`](https://github.com/anurag200513/My-website)) & cloud deployment workflows |
+| **Amit Padhan** | [@amitpadhan525](https://github.com/amitpadhan525) | **Linux Systems, Wayland Desktop Compositors & Security**<br/>• **Desktop Compositing & Mobile Convergence**: Open Android DeX creator ([`open-android-dex`](https://github.com/Bit-manipulators/open-android-dex)), Flutter Desktop compositor, in-process C++ FFmpeg textures, Scrcpy/ADB streaming<br/>• **Linux Environments & Desktop Theming**: Hyprland (Wayland) environments ([`linux-dotfiles`](https://github.com/amitpadhan525/linux-dotfiles)), glassmorphism SDDM themes ([`sddm-themes`](https://github.com/amitpadhan525/sddm-themes))<br/>• **Systems Security & Virtualization**: Real-time intrusion monitoring ([`linux-eye`](https://github.com/amitpadhan525/linux-eye)), zero-knowledge AES-256 encryption ([`locker`](https://github.com/amitpadhan525/locker)), QEMU/KVM lab orchestration ([`qemu-kvm-lab`](https://github.com/amitpadhan525/qemu-kvm-lab)), OpenCore UEFI bootloaders ([`ryzen-5500u-hackintosh-efi`](https://github.com/amitpadhan525/ryzen-5500u-hackintosh-efi)) |
 
 </div>
 

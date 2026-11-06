@@ -21,4 +21,4 @@ This repository hosts the **Organization Profile** and **Default Community Healt
 * 🖥️ **[open-android-dex](https://github.com/Bit-manipulators/open-android-dex)**: Android-to-Linux desktop multi-window environment.
 * 🔍 **[DevLense](https://github.com/Bit-manipulators/DevLense)**: AI-powered on-the-go code debugger and zero-trust sandbox.
 * ⚡ **[App_pulse](https://github.com/Bit-manipulators/App_pulse)**: Privacy-first on-device Android health & impact manager.
-* 🌐 **[open-android-dex-website](https://github.com/Bit-manipulators/open-android-dex-website)**: Web portal and documentation for Open Android DeX.
+* 🌐 **[open-android-dex-website](https://github.com/Bit-manipulators/open-android-dex-website)**: Web portal and documentation for Open Android DeX *(In Development)*.
