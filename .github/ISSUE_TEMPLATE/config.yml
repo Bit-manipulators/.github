@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Bit Manipulators Discussions
+    url: https://github.com/orgs/Bit-manipulators/discussions
+    about: Ask questions, share ideas, and connect with the Bit Manipulators community.
+  - name: 🛡️ Security Vulnerability Reporting
+    url: https://github.com/Bit-manipulators/.github/blob/main/SECURITY.md
+    about: Privately report security vulnerabilities.
