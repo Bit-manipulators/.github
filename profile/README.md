@@ -2,30 +2,32 @@
 
 # Bit Manipulators
 
-### Open-source engineering for mobile, desktop, and secure software
+### Open-source engineering for practical, privacy-conscious software
+
+We build reliable tools across Android, Linux, developer infrastructure, and on-device intelligence.
 
 <a href="https://bit-manipulators.github.io/">Website</a> ·
-<a href="https://github.com/Bit-manipulators">Repositories</a> ·
+<a href="https://github.com/Bit-manipulators?tab=repositories">Projects</a> ·
 <a href="https://github.com/Bit-manipulators/.github/blob/main/CONTRIBUTING.md">Contribute</a>
 
 </div>
 
 ---
 
-## What we build
+## About us
 
-Bit Manipulators is an open-source engineering collective building practical tools at the intersection of **Android**, **Linux**, **AI**, and **privacy-first systems**.
+Bit Manipulators is an open-source engineering collective focused on useful software that is secure, transparent, and built to last.
 
-Our work focuses on:
+Our work includes:
 
-- Turning mobile devices into capable desktop workstations
-- Building secure, isolated developer tools
-- Creating transparent on-device diagnostics and utilities
-- Shipping clean-room, open-source software without vendor lock-in
+- Desktop-class experiences for mobile devices
+- Secure and isolated developer tools
+- Transparent diagnostics and system utilities
+- Open implementations that avoid unnecessary vendor lock-in
 
-## Featured projects
+## Selected projects
 
-| Project | Description |
+| Project | Focus |
 | --- | --- |
 | [Open Android DeX](https://github.com/Bit-manipulators/open-android-dex) | A multi-window Linux desktop experience for Android devices. |
 | [DevLens](https://github.com/Bit-manipulators/DevLense) | Mobile code analysis, OCR, debugging, and zero-trust execution. |
@@ -35,18 +37,18 @@ Our work focuses on:
 
 `Android` · `Linux` · `Wayland` · `X11` · `Flutter` · `Jetpack Compose` · `React Native` · `Python` · `Kotlin` · `TypeScript` · `C++` · `FastAPI` · `Docker` · `SQLite`
 
-## Principles
+## How we work
 
-**Privacy by default** — data stays on-device whenever possible.  
-**Security as a foundation** — isolation, least privilege, and transparent behavior.  
-**Open by design** — standard protocols, inspectable code, and permissive collaboration.  
-**Useful over flashy** — reliable tools that solve real engineering problems.
+**Privacy by default** — Keep data on-device whenever practical.  
+**Security by design** — Prefer isolation, least privilege, and transparent behavior.  
+**Open by default** — Use inspectable code and open standards.  
+**Useful over flashy** — Prioritize dependable solutions to real problems.
 
-## Get involved
+## Contributing
 
-Have an idea, found a bug, or want to contribute? Open an issue or pull request in the relevant repository. Please read our [Contributing Guide](https://github.com/Bit-manipulators/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/Bit-manipulators/.github/blob/main/CODE_OF_CONDUCT.md) first.
+Found a bug, have an idea, or want to help improve a project? Open an issue or pull request in the relevant repository. Before contributing, please review our [Contributing Guide](https://github.com/Bit-manipulators/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/Bit-manipulators/.github/blob/main/CODE_OF_CONDUCT.md).
 
-For responsible vulnerability reports, see our [Security Policy](https://github.com/Bit-manipulators/.github/blob/main/SECURITY.md).
+For responsible vulnerability disclosures, follow our [Security Policy](https://github.com/Bit-manipulators/.github/blob/main/SECURITY.md).
 
 <div align="center">
 
