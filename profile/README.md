@@ -9,7 +9,7 @@
 [![License: Open Source](https://img.shields.io/badge/Licenses-GPLv3%20%26%20MIT-blue?style=for-the-badge)](https://github.com/Bit-manipulators)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](https://github.com/Bit-manipulators/.github/blob/main/CONTRIBUTING.md)
 
-[https://bit-manipulators.github.io/](https://bit-manipulators.github.io/)
+<sub><a href="https://bit-manipulators.github.io/">https://bit-manipulators.github.io/</a></sub>
 
 <br/>
 
